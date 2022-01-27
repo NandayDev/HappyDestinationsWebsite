@@ -52,7 +52,7 @@ const RESOURCES = {
 "content/6.jpg": "abe7fcd1b1811ae861a06d4f4bfac888",
 "content/7.jpg": "eada2d5a8784b3f22ffd095504b1516d",
 "content/9.jpg": "c110c89c8399716915f285660a681447",
-"content/background_music.mp3": "d35879fcbfe1b1baf870a502d428307a",
+"content/background_music.mp3": "a4fb4e7f7f55b93064f4ed7ccf688b0d",
 "content/cities_1.jpg": "fe56d31874a42ac4117f02cecaf2622d",
 "content/cities_2.jpg": "1346265abdc45f40fd52c03fd3f47e9f",
 "content/company_1.jpg": "d2b7ad048260f87ed29200d053b3e65d",
@@ -63,9 +63,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9e80b0bf3cdafdacd8fa803a84b23806",
-"/": "9e80b0bf3cdafdacd8fa803a84b23806",
-"main.dart.js": "aa17d5e49f02224870a5418592551391",
+"index.html": "1ea6211ed984d0f8b1f46d304c595dea",
+"/": "1ea6211ed984d0f8b1f46d304c595dea",
+"main.dart.js": "6142dd51b46b63f6f045ef8ae9097838",
 "manifest.json": "ad4aedbf93d7f303540f58de9ed0728e",
 "version.json": "7002154e2af3fd69a435005900857def"
 };
